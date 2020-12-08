@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "kill" : "node kill.js"
+    "kill": "node kill.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",

@@ -2,6 +2,8 @@
 
 > This repository is just temporay and disposable repo.
 
+レポジトリ名は誤字ったけど、そこは流しといてくれ！
+
 - React, vue などをやる時はをこれを使わないこと。他に良い ecosystem がある。
   (`create-react-app`, `vue-cli` ... etc)
 - これはかなり使い捨て。落書きみたいなもん
